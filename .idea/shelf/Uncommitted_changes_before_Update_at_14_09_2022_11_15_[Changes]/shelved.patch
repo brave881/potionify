@@ -1,0 +1,15 @@
+Index: README.md
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+># potionify\r\n Build and share your points\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/README.md b/README.md
+--- a/README.md	(revision 2796111c174d44f15eaaee70bd5daa9a9e9ebff8)
++++ b/README.md	(date 1663143135702)
+@@ -1,2 +1,2 @@
+ # potionify
+- Build and share your points
++ Build and share your points
+\ No newline at end of file
